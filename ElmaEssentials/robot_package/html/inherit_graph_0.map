@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classEvade.html" title="Evade" alt="" coords="129,5,191,32"/>
+<area shape="rect" id="node3" href="$classFindRechSta.html" title="FindRechSta" alt="" coords="111,56,209,83"/>
+<area shape="rect" id="node4" href="$classIdle.html" title="Idle" alt="" coords="138,107,182,133"/>
+<area shape="rect" id="node5" href="$classKill.html" title="Kill" alt="" coords="141,157,179,184"/>
+<area shape="rect" id="node6" href="$classMakeNoise.html" title="MakeNoise" alt="" coords="114,208,206,235"/>
+<area shape="rect" id="node7" href="$classReChar.html" title="ReChar" alt="" coords="127,259,193,285"/>
+<area shape="rect" id="node8" href="$classWander.html" title="Wander" alt="" coords="125,309,195,336"/>
+</map>
