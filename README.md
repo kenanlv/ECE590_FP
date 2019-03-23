@@ -5,7 +5,7 @@ This repository serves for the purpose of the final project for ECE 590 Embeded 
 The goal of this project is to demonstrate the depth of our learning result from the class.
 
 ### **Project description**:
-  Extend the robot finite state machine example to include a simulation of the robot in a 2D environment, a simulation of an intruder, a     simulation of the recharge station, and a simulation an operator who can send the reset event. 
+  Extend the robot finite state machine example to include a simulation of the robot in a 2D environment, a simulation of an intruder,and a simulation of the recharge station. 
 
 All states must have the correct transition to other states with emitting the correspond events. 
 At first the project should show transitions, states, and events by printing out to the screen, then, at the end of the project, it should be able to show everything on a 2-D environment with simulated robots, host, charging station, and intruders. With real-time states, events, and transitions printed out. 
