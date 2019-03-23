@@ -59,7 +59,7 @@ Intruder class will generate an intruder in a given time span. Map will randomly
 **Initilization of Map:** 
 0 represents for charging station, and it will stays at the same place all the time.
 
-<img src=Images/map_init.png width="300" height="300">
+<img src=Images/map_init.PNG width="300" height="300">
 
 
 
