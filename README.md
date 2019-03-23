@@ -113,7 +113,7 @@ Map will generate robot ("^") in random position, then robot goes into wander st
 After simulator being runing for certain time. Intruder class will emit an evnet that will trigger map to generate an intruder ("X") in a random position. Robot will immediately move towards intruder when it sees an intruder while making noise.
 
 <img src=Images/rob_noise.PNG width="300" height="300">
-<img src=Images/rob_noise_2.PNG width="250" height="250">
+<img src=Images/rob_noise_2.PNG width="300" height="300">
 
 
 
